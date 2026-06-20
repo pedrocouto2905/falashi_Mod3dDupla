@@ -2,6 +2,7 @@
 
 # Membros:
 - Pedro de Almeida Couto Santos
+- Vinícius Justo Faria Ferreira
 
 # Professores:
 - Will Ricardo dos Santos Machado
