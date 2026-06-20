@@ -1,8 +1,8 @@
-## Projeto da disciplina de Engenharia de Apicações Móveis
+# Projeto da disciplina de Engenharia de Apicações Móveis
 
-# Membros:
+## Membros:
 - Pedro de Almeida Couto Santos
 - Vinícius Justo Faria Ferreira
 
-# Professores:
+## Professores:
 - Will Ricardo dos Santos Machado
